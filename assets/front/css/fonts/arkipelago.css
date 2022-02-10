@@ -1,0 +1,7 @@
+@font-face{
+    font-family: 'Arkipelago';
+    src: url('Arkipelago.otf');
+    src: local('Arkipelago'), local('Arkipelago'),
+        url('Arkipelago.otf') format('opentype');
+    font-style: normal;
+}
